@@ -32,7 +32,7 @@ Needs `gcc`, `make`, `pkg-config`, the development files of `wayland-client`, `w
 `~/.config/wate/config.py` is created from `default/config.py` on first run. It is ordinary Python; everything is optional:
 
 ```python
-font = "Libertinus Mono:size=11"
+font = "monospace:size=11"
 pad = "12x12"
 size = "80x24"
 scrollback = 1000
